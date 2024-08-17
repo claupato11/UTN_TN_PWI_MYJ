@@ -72,4 +72,11 @@ Ejemplo: <ul>
 <li>Elemento 1</li>
 <li>Elemento 2</li>
 </ul>
-
+textos
+lorem 1000 (cantidad de caractereso podemos *100 y asi)
+<span> (es para texto generico)
+<a> ancla te lleva a otro pagina viene con un atributo href
+    <href> (atributo de a)
+    <<a href= "www">
+        si al final pongo target=”_blank  >ir a mercado libre</a> (me permite abrir una pagina en blanco)
+    

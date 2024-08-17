@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>quienes somos</title>
+<body>
+    <h1>Quienes somos?</h1>
+    <p>nos dedicamos a fabricar experiencias</p>
+    <a href="./quienes -somos-html"> ir a home</a>
+</head>  
+</body>
+
+
+
+
